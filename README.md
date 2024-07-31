@@ -38,7 +38,7 @@ Understanding the Jetpack Compose mechanism is important, as it directly impacts
 
 ## 🎤 Speaking
 
-* [Jetpack Compose Mechanism](https://speakerdeck.com/skydoves/jetpack-compose-mechanism): This talk covers understandinf Compose structures, Declarative UI, Composable functions, stability in Compose to improve Compose performance, and Kotlin Multiplatform.
+* [Jetpack Compose Mechanism](https://speakerdeck.com/skydoves/jetpack-compose-mechanism): This talk covers understanding Compose structures, Declarative UI, Composable functions, stability in Compose to improve Compose performance, and Kotlin Multiplatform.
 
 ## 💻 Open-Source Library
 
