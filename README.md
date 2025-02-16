@@ -14,6 +14,8 @@ Understanding the Jetpack Compose mechanism is important, as it directly impacts
 
 * [Strong Skipping Mode](https://developer.android.com/develop/ui/compose/performance/stability/strongskipping): The guide on strong skipping in Jetpack Compose highlights techniques to minimize recomposition by ensuring that composable functions are only re-executed when necessary. It discusses how the Strong Skipping mode optimizes Compose performance by introducing a new recomposition mechanism.
 
+* [Implement custom modifier behavior using Modifier.Node](https://developer.android.com/develop/ui/compose/custom-modifiers#implement-custom): `Modifier.Node` was designed from the ground up to be far more performant than composed modifiers. For more details on the problems with composed modifiers.
+
 ## 📚 Articles
 
 * [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc): The article discusses new strategies for optimizing stability in Jetpack Compose, focusing on reducing unnecessary recompositions. It introduces concepts like using stable data types, the `remember` function, and the `key` modifier to manage state changes more efficiently. These methods enhance performance and ensure smoother, more responsive UIs in Compose.
