@@ -46,6 +46,8 @@ Understanding the Jetpack Compose mechanism is important, as it directly impacts
 
 * [compose-stable-marker](https://github.com/skydoves/compose-stable-marker): ✒️ Compose stable markers were originated Compose runtime, which improves Compose performance by telling stable and skippable guarantees to the compose compiler from non-compose dependent modules. This library supports Kotlin Multiplatform.
 
+* [compose-guard](https://github.com/j-roskopf/ComposeGuard): ✒️ Compose Guard is a Gradle plugin for detecting regressions in Jetpack Compose / Compose Multiplatform code. It works by adding Gradle tasks to both generate golden stability metrics and verify that no new undesirable Compose Code was added. This plugin supports both Jetpack Compose and Compose Multiplatform.
+
 ## Find this repository useful? :heart:
 Support it by joining __[stargazers](https://github.com/skydoves/compose-performance/stargazers)__ for this repository. :star: <br>
 Also, __[follow me](https://github.com/skydoves)__ on GitHub for my next creations! 🤩
