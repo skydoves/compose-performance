@@ -50,6 +50,14 @@ Understanding the Jetpack Compose mechanism is important, as it directly impacts
 
 * [compose-guard](https://github.com/j-roskopf/ComposeGuard): Compose Guard is a Gradle plugin for detecting regressions in Jetpack Compose / Compose Multiplatform code. It works by adding Gradle tasks to both generate golden stability metrics and verify that no new undesirable Compose Code was added. This plugin supports both Jetpack Compose and Compose Multiplatform.
 
+<a href="https://www.android.skydoves.me/">
+<img src="https://github.com/user-attachments/assets/e014ce01-3461-40af-bb2a-eb44f3f55f36" width="13%" align="right"/>
+</a>
+
+## 📘 Manifest Android Interview
+
+[Manifest Android Interview](https://www.android.skydoves.me/) is a comprehensive guide designed to enhance your Android development expertise through 108 interview questions with detailed answers, 162 additional practical questions, and 50+ "Pro Tips for Mastery" sections. The interview questions primarily focus on Android development—including the Framework, UI, Jetpack Libraries, and Business Logic—as well as Jetpack Compose, covering Fundamentals, Runtime, and UI.
+
 ## Find this repository useful? :heart:
 Support it by joining __[stargazers](https://github.com/skydoves/compose-performance/stargazers)__ for this repository. :star: <br>
 Also, __[follow me](https://github.com/skydoves)__ on GitHub for my next creations! 🤩
