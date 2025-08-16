@@ -16,6 +16,8 @@ Understanding the Jetpack Compose mechanism is important, as it directly impacts
 
 * [Implement custom modifier behavior using Modifier.Node](https://developer.android.com/develop/ui/compose/custom-modifiers#implement-custom): `Modifier.Node` was designed from the ground up to be far more performant than composed modifiers. For more details on the problems with composed modifiers.
 
+* [AOSP: androidx.compose.runtime.annotation](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/runtime/runtime-annotation/src/commonMain/kotlin/androidx/compose/runtime/annotation/compose-runtime-annotation-documentation.md): The `androidx.compose.runtime.annotation` package provides annotations used by the compiler and tooling. These annotations are published in a separate library to allow using these annotations in modules that do not depend on Compose Runtime, but may be used with Compose in other modules.
+
 ## 📚 Articles
 
 * [New ways of optimizing stability in Jetpack Compose](https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc): The article discusses new strategies for optimizing stability in Jetpack Compose, focusing on reducing unnecessary recompositions. It introduces concepts like using stable data types, the `remember` function, and the `key` modifier to manage state changes more efficiently. These methods enhance performance and ensure smoother, more responsive UIs in Compose.
