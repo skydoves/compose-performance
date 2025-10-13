@@ -2,7 +2,7 @@
 
 Understanding the Jetpack Compose mechanism is important, as it directly impacts your application's performance. Jetpack Compose introduces a new paradigm in declarative UI, driving innovative UI techniques. While the benefits of declarative UI are significant, it also presents challenges in terms of stability and UI updates. This issue is not unique to Jetpack Compose; it also affects other declarative UI frameworks like React and Flutter. These challenges are inherent to all frameworks that use a declarative approach and we can learn across all those various frameworks.
 
-## Projects
+## 📘 Study
 
 * [Compose Stability Inference](https://github.com/skydoves/compose-stability-inference): 📚 A comprehensive study of how the Compose compiler determines type stability for recomposition optimization.
 
