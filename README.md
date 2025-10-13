@@ -2,6 +2,10 @@
 
 Understanding the Jetpack Compose mechanism is important, as it directly impacts your application's performance. Jetpack Compose introduces a new paradigm in declarative UI, driving innovative UI techniques. While the benefits of declarative UI are significant, it also presents challenges in terms of stability and UI updates. This issue is not unique to Jetpack Compose; it also affects other declarative UI frameworks like React and Flutter. These challenges are inherent to all frameworks that use a declarative approach and we can learn across all those various frameworks.
 
+## Prjects
+
+* [Compose Stability Inference](https://github.com/skydoves/compose-stability-inference): 📚 A comprehensive study of how the Compose compiler determines type stability for recomposition optimization.
+
 ## 📓 Official Android Documentation
 
 * [Practical performance problem-solving in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-performance#0): The codelab on Jetpack Compose Performance provides guidelines for optimizing Compose by identifying and fixing performance issues. It covers essential techniques such as using `Lazy` components for efficient list rendering, optimizing recomposition, and leveraging tools like the Layout Inspector and Profile GPU Rendering for performance analysis. Additionally, it emphasizes best practices like minimizing the use of complex layout hierarchies and avoiding unnecessary recompositions to enhance app performance.
