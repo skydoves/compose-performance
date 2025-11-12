@@ -50,6 +50,8 @@ Understanding the Jetpack Compose mechanism is important, as it directly impacts
 
 ## 💻 Open-Source Library
 
+* [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer): Compose Stability Analyzer provides real-time analysis of your Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ. It helps you understand why a composable function is stable or unstable, and offers detailed insights through recomposition tracing and logging. Additionally, you can trace the reason of your composable function is triggered recomposition with a TraceRecomposition annotation, and export stability compatibility reports using Gradle tasks for reviewing the new stability changes.
+
 * [compose-stable-marker](https://github.com/skydoves/compose-stable-marker): ✒️ Compose stable markers were originated Compose runtime, which improves Compose performance by telling stable and skippable guarantees to the compose compiler from non-compose dependent modules. This library supports Kotlin Multiplatform.
 
 * [compose-effects](https://github.com/skydoves/compose-effects): 🧵 Compose Effects enable you to launch efficient side-effects without unnecessary operations for Android and Kotlin Multiplatform.
