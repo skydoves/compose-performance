@@ -2,6 +2,14 @@
 
 Understanding the Jetpack Compose mechanism is important, as it directly impacts your application's performance. Jetpack Compose introduces a new paradigm in declarative UI, driving innovative UI techniques. While the benefits of declarative UI are significant, it also presents challenges in terms of stability and UI updates. This issue is not unique to Jetpack Compose; it also affects other declarative UI frameworks like React and Flutter. These challenges are inherent to all frameworks that use a declarative approach and we can learn across all those various frameworks.
 
+<a href="https://howcomposeworks.com/">
+<img src="https://github.com/user-attachments/assets/0f0f72fc-49ce-48b5-b3dd-f2c04e907f80" width="13%" align="right"/>
+</a>
+
+## 📗 Jetpack Compose Mechanisms Book
+
+[Jetpack Compose Mechanisms](https://howcomposeworks.com/) takes you from "how to use Compose" into "how Compose actually works," tracing the AOSP source line by line through the compiler, runtime, and UI layers beneath every Composable, with practical, production-ready examples from the author's own Compose tooling and libraries. It then ties all three layers together into deep, real-world performance tuning, from stability inference to the skip decision. Fully updated for Kotlin 2.4.0 and Compose Compiler 2.4.0.
+
 ## 📘 Study
 
 * [Compose Stability Inference](https://github.com/skydoves/compose-stability-inference): 📚 A comprehensive study of how the Compose compiler determines type stability for recomposition optimization.
